@@ -1,0 +1,110 @@
+[
+ {
+  "k": "bbc",
+  "name": "BBC",
+  "ar": 3.503,
+  "ink": 0.725
+ },
+ {
+  "k": "discovery",
+  "name": "Discovery",
+  "ar": 4.012,
+  "ink": 0.329
+ },
+ {
+  "k": "unicef",
+  "name": "UNICEF",
+  "ar": 1.157,
+  "ink": 0.443
+ },
+ {
+  "k": "worldhealthorganization",
+  "name": "World Health Organization",
+  "ar": 1.13,
+  "ink": 0.342
+ },
+ {
+  "k": "unilever",
+  "name": "Unilever",
+  "ar": 0.965,
+  "ink": 0.41
+ },
+ {
+  "k": "nestle",
+  "name": "Nestl\u00e9",
+  "ar": 3.688,
+  "ink": 0.586
+ },
+ {
+  "k": "philips",
+  "name": "Philips",
+  "ar": 5.433,
+  "ink": 0.568
+ },
+ {
+  "k": "toyota",
+  "name": "Toyota",
+  "ar": 1.471,
+  "ink": 0.414
+ },
+ {
+  "k": "audi",
+  "name": "Audi",
+  "ar": 2.857,
+  "ink": 0.405
+ },
+ {
+  "k": "yamahacorporation",
+  "name": "Yamaha",
+  "ar": 1.0,
+  "ink": 0.329
+ },
+ {
+  "k": "dell",
+  "name": "Dell",
+  "ar": 1.0,
+  "ink": 0.235
+ },
+ {
+  "k": "hp",
+  "name": "HP",
+  "ar": 1.0,
+  "ink": 0.531
+ },
+ {
+  "k": "hiltonw",
+  "name": "Hilton",
+  "ar": 2.695,
+  "ink": 0.297
+ },
+ {
+  "k": "kfc",
+  "name": "KFC",
+  "ar": 3.175,
+  "ink": 0.53
+ },
+ {
+  "k": "pizzahut",
+  "name": "Pizza Hut",
+  "ar": 1.062,
+  "ink": 0.608
+ },
+ {
+  "k": "burgerking",
+  "name": "Burger King",
+  "ar": 0.91,
+  "ink": 0.704
+ },
+ {
+  "k": "dialog",
+  "name": "Dialog",
+  "ar": 1.668,
+  "ink": 0.233
+ },
+ {
+  "k": "combank",
+  "name": "Commercial Bank",
+  "ar": 10.581,
+  "ink": 0.157
+ }
+]
